@@ -1,7 +1,7 @@
 kind: Service                             
 apiVersion: v1
 metadata:
-  name: service1
+  name: service2
   labels:
     app: label1
 spec:
